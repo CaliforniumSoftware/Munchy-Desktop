@@ -4,4 +4,7 @@ This is the second itteration of Munchy and now its better than ever! Google sig
 # Disclaimer
 Munchy Desktop© and MunchyP©(mobile app) are developed by a 1 person and bugs may be present and features may not be very well polished, nethertheless I am working hard on improving the product. If you would like to stay up to date with the development of this product make sure to vist this page.
 
+# Features to be added:
+- Option to search for food items in fridge, shopping list and ingredient menu.
+
 Other than that enjoy the Alpha version of Munchy Desktop©
